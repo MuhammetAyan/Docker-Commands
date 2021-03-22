@@ -1,0 +1,1 @@
+docker stop zookeeper kafka pg pgadmin
